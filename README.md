@@ -1,1 +1,1 @@
-# KatalonProject
+# ThiruGitProject
